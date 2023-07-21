@@ -1,0 +1,7 @@
+theme: minima
+baseurl: /cdws
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true
