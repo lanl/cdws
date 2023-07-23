@@ -1,5 +1,5 @@
 ---
-title: LANL Co-Design Winter School
+title: CEA/NNSA Co-Design Winter School
 layout: default
 ---
 
