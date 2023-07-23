@@ -1,6 +1,7 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "godalming123/minimal"
 plugins:
 - jekyll-remote-theme 
+color-scheme: "light"
 title: Co-Design Winter School
 description: Co-Design Winter School information and registration website.
 baseurl: /cdws
