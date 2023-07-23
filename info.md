@@ -7,6 +7,11 @@ layout: default
 
 University of Reims Champagne-Ardenne, Reims, France. 
 
+<img src="images/urca.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+
+<p> The University of Reims Champagne-Ardenne (URCA) is a welcoming and dynamic multi-disciplinary and multi-site university providing a setting that is conducive to studies and a fulfilling student life.
+URCA is host a multiple master in Computer Science with among them the master <a href="https://romeo.univ-reims.fr/chps/" target="_blank"> CHPS  </a>.</p>
+
 <img src="images/reims.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
 
 ### Dates: 
