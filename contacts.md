@@ -1,5 +1,5 @@
 ---
-title: CEA/NNSA Co-Design Winter School
+title: CEA/NNSA Co-Design Spring School
 layout: default
 ---
 

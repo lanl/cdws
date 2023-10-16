@@ -1,5 +1,5 @@
 ---
-title: CEA/NNSA Co-Design Winter School
+title: CEA/NNSA Co-Design Spring School
 layout: default
 ---
 
@@ -20,7 +20,7 @@ URCA is host a multiple master in Computer Science with among them the master <a
 -	Deadline for registration: November 2023
 
 ### Inscription fees will cover: (Price TBD)
--	Winter School Attendance
+-	Spring School Attendance
 -	Hotel from Monday 22nd to Friday 26th 
 -	Meals (Breakfast + Lunch + Dinner) 
 -	Social Event: Champagne Cave visit 

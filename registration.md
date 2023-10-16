@@ -1,11 +1,11 @@
 ---
-title: LANL Co-Design Winter School
+title: LANL Co-Design Spring School
 layout: default
 ---
 
 ## Registration
 
-The requirements to register for the Co-Design Winter School 2024 are: 
+The requirements to register for the Co-Design Spring School 2024 are: 
 - Basic knowledge in High Performance Compute: MPI, OpenMP
 - TBD
 
